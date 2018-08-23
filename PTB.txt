@@ -1,7 +1,22 @@
 this is priti changes kjshkjhkrs
 my nARKHKF IS ANATHY
+
 smrutiii jaadhav prity smruti prashant dhanu
+
 jskgfes gejwui uierw
+
+Priti dont have changes 
+----------------------
+What to do
+1. pushh it and get a conflict messga
+2. pull the repo
+3.status
+4.check file which are modidfied by status.
+5.then resolve manually
+6. add commit,push
+7 done
+-------------------------------------
+
 _3DARRAY
 _3DFACE
 _3DPOLY
